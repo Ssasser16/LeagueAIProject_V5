@@ -1,0 +1,1 @@
+worker: python fetch_and_save/fetch_and_save_json.py
